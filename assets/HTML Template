@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Getting started with html</title>
+        <link rel="stylesheet" href="Index.CSS">
+        
+    </head>
+    
+    <body background="c:\Users\sharmila\Downloads\Untitled-design-42.png"
+        
+        
+        <div class="main-container">
+        <h1 class="title"> India's Agriculture Crop Production </h1>
+        <div class="main">
+            <div class="heading">
+            <a> Welcome</a>
+            </div>
+        <div class="topnav">
+            <a href="#"> Home</a>
+            <a href="#"> Crops</a>
+            <a href="#"> Feature</a>
+            <a href="#"> Production</a>
+            <a href="#"> Yield</a>
+            <button class="nav-btn">Get started</button>
+            </div>
+        </div>
+        <div class="body">
+        <div class="sub-main">
+            <h2>India's Agriculture Crop Production<br>Analysis (1997-2020)</h2>
+            <p>Creating Dashboard, Story using Tableau and Analyzing<br> India's Agriculture Crop Production</p>
+            <button class="btn-one"> Allow</button>
+        </div>
+        <div class="SignUp"></div>
+        <form>
+            <div class="Sub-sign up"> 
+                <h3>Sign Up </h3>
+                <input type="text"placeholder="Enter email" name="email"><br>
+                <input type="password"placeholder="Password" name="pass"><br>
+                <input type="password"placeholder="Repeat Password" name="re-Pass"><br>
+                <button class="btn-two"> Register</button>
+            </div>
+            
+        </form>
+    </div>
+</div>
+</div>
+
+
+        
+        
+    </body>
+</html>

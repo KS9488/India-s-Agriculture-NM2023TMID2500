@@ -1,0 +1,87 @@
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}
+.main{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 20px 24px;
+    font-size: 20px;
+}
+ .topnav a {
+    text-decoration: none;
+    margin-right: 40px;
+
+
+ }   
+ .body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 130px;
+ }
+ 
+ .main-container{
+   background-image:c:\Users\sharmila\Downloads\Untitled-design-42.png;
+   
+ }
+ 
+ .nav-btn{
+    color: whitesmoke;
+    background-color: #7590d6;
+    padding: 10px;
+    border-color: white;
+ }
+ .sub-signup{
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 40px;
+ }
+ h3{
+    text-align: center;
+    font-size: 23px;
+    color: white;
+ }
+ input{
+    width: 125%;
+    padding: 15px;
+    margin: 5px 0 20px 0 ;
+    display: inline-block;
+    border: none;
+    background:white;
+    
+ }
+ .btn-one{
+    color: whitesmoke;
+    background-color: black;
+    padding: 10px;
+    border-color: white;
+    border-radius: 10px;
+
+ }
+.btn-two{
+    color: white;
+    background-color:black;
+    padding: 10px;
+    width: 70%;
+    border-color: white;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.signup{
+    margin-top: 100px;
+
+    
+    
+}
+.sub-main{
+    height: 400px;
+    font-size: 23px;
+    color:white;
+    min-height: min-content;
+}
+
